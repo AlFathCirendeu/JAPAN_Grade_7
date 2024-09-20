@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="EF6C0F93-3294-41DF-83D3-A8CBBFA06336" version="0">
+	<info>
+		<title>PTS JEPANG G7</title>
+		<description/>
+	</info>
+	<files index="id33" thumbnail="id29" totalSize="8391956">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/audios/snd-568fa5c521a165dc0397763ae3e3673195b28405.mp3</file>
+		<file id="id2">data/browsersupport.js</file>
+		<file id="id3">data/favicon.ico</file>
+		<file id="id4">data/fonts/fnt0.woff</file>
+		<file id="id5">data/fonts/fnt1.woff</file>
+		<file id="id6">data/fonts/fnt2.woff</file>
+		<file id="id7">data/fonts/fnt3.woff</file>
+		<file id="id8">data/fonts/fnt4.woff</file>
+		<file id="id9">data/fonts/fnt5.woff</file>
+		<file id="id10">data/fonts/fnt6.woff</file>
+		<file id="id11">data/fonts/fnt7.woff</file>
+		<file id="id12">data/html5-unsupported.html</file>
+		<file id="id13">data/images/img-08212cad7a1d64a3f09a89444e982cddcc33a1a2.png</file>
+		<file id="id14">data/images/img-0fdfb5b9f4764986b3d8b8de5a76b0cc59be3c9b.jpg</file>
+		<file id="id15">data/images/img-1171217f6eca26edc470d7a055b60865325008f0.png</file>
+		<file id="id16">data/images/img-150d54bccbbc41dded0aee1e2b6b2c234e19eed6.png</file>
+		<file id="id17">data/images/img-1b6c1aa12d6396ec10faecff927bf9ca9f0b6f26.png</file>
+		<file id="id18">data/images/img-1f61507d63b72bc8a69f226594b1d2e71243172b.png</file>
+		<file id="id19">data/images/img-294e2924717e50248f7cd55c7c9b0c03eac39be0.jpg</file>
+		<file id="id20">data/images/img-408d623e6b319325721c48bd1a798f6a644e530f.png</file>
+		<file id="id21">data/images/img-4847dd456a4108ccb4d5dbaa8493aa1ef0191629.png</file>
+		<file id="id22">data/images/img-4fa688e9b845c08a44294adb1957c077d1ab541f.jpg</file>
+		<file id="id23">data/images/img-573d50d81a823ee0e7f7d9f9dbb058567402c1c8.jpg</file>
+		<file id="id24">data/images/img-a0eb490cd2c05ef85e1018241a7461aed82cf8ad.jpg</file>
+		<file id="id25">data/images/img-ac5c096b6af0adc69392a32909226d57d0caeae7.jpg</file>
+		<file id="id26">data/images/img-bec6ba2ea78f9040148637f994e22528ecd06c6b.jpg</file>
+		<file id="id27">data/ismplayer/app_store2x.png</file>
+		<file id="id28">data/ismplayer/play.svg</file>
+		<file id="id29">data/ismplayer/preview.png</file>
+		<file id="id30">data/ismplayer/style.css</file>
+		<file id="id31">data/ismplayer/style_mini.css</file>
+		<file id="id32">data/player.js</file>
+		<file id="id33">index.html</file>
+		<file id="id34">ismplayer.html</file>
+		<file id="id35">preview.png</file>
+	</files>
+</presentation>
+
